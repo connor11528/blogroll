@@ -14,8 +14,8 @@ a list of hyperlinks to other blogs or websites.
 
 - Hacker News - https://news.ycombinator.com/
 - Lobste.rs - https://lobste.rs
+- Product Hunt - https://www.producthunt.com/
 - Linkedin, Twitter, Facebook
-- Product Hunt
 
 ### Community curated blogs
 
@@ -26,7 +26,6 @@ a list of hyperlinks to other blogs or websites.
 - Six Revisions - http://sixrevisions.com/
 - Speckyboy - https://speckyboy.com/
 - Onextrapixel - http://www.onextrapixel.com/
-- 
 
 ### People's blogs
 - Matt Stauffer (Laravel) - https://mattstauffer.co/blog
