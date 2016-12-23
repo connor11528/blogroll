@@ -20,6 +20,7 @@ a list of hyperlinks to other blogs or websites.
 ### Community curated blogs
 
 - Scotch.io - https://scotch.io/
+- Dotdev - https://dotdev.co/
 - Smashing Magazine - https://www.smashingmagazine.com/
 - Laravel News - https://laravel-news.com/blog
 - Mondo Blog - http://www.mondo.com/blog
