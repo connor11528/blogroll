@@ -15,6 +15,8 @@ a list of hyperlinks to other blogs or websites.
 - Hacker News - https://news.ycombinator.com/
 - Lobste.rs - https://lobste.rs
 - Product Hunt - https://www.producthunt.com/
+- Reddit Vuejs - https://m.reddit.com/r/vuejs/?compact=true
+- Reddit Laravel - https://www.reddit.com/r/laravel/
 - Linkedin, Twitter, Facebook
 
 ### Community curated blogs
